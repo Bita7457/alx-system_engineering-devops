@@ -1,2 +1,2 @@
 #!/bin/bash
-file 9: Delete the file betty.
+file 10: Delete the directory my_first_directory that is in the /tmp directory.
